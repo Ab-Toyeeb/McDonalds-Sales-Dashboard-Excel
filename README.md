@@ -1,5 +1,5 @@
 # McDonald's South America Sales Dashboard 2022
-
+![McDonald's South America Sales Dashboard 2022](./McDonalds-Sales-Dashboard Display.png)
 ## 📋 Project Overview
 
 This is an **interactive Excel Dashboard** that analyzes McDonald's sales performance across **South America** in 2022.
