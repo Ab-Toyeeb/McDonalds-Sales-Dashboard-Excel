@@ -73,17 +73,6 @@ The dashboard provides clear insights into **Sales**, **Profit**, **Customer Vol
 
 ---
 
-## 🚀 How to Use
-
-1. Download the file: `Sales Dashboard.xlsx`
-2. Open it in **Microsoft Excel** (Recommended: Excel 2016 or newer)
-3. Go to the **Dashboard** sheet
-4. Use the interactive elements (if slicers are added) or simply view the visuals
-5. Check the **Inputs** sheet for source data
-6. View **Contacts** sheet for regional management contacts
-
----
-
 ## 📌 Future Enhancements Ideas
 
 - Add interactive slicers for dynamic filtering by country or month
