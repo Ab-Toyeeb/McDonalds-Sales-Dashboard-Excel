@@ -94,16 +94,6 @@ The dashboard provides clear insights into **Sales**, **Profit**, **Customer Vol
 
 ---
 
-## 👨‍💻 Author
-
-**Abubakar**  
-Aspiring Data Analyst | Excel Dashboard Specialist  
-Location: Lagos, Nigeria
-
-Feel free to connect with me or provide feedback!
-
----
-
 ## 📄 License
 
 This project is for **educational and portfolio purposes**. Feel free to use it as inspiration for your own dashboards.
